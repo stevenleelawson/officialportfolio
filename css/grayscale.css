@@ -123,8 +123,8 @@ a:focus {
   height: auto;
   padding: 100px 0;
   text-align: center;
-  color: white;
-  background: url(../img/ravens2.jpg) no-repeat bottom center scroll;
+  color: #063060;
+  background: url("../img/ravens.png") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -152,6 +152,10 @@ a:focus {
   .intro .intro-body .intro-text {
     font-size: 26px;
   }
+}
+.thumb {
+  height: 25rem;
+  width: 25rem;
 }
 .btn-circle {
   width: 70px;
@@ -224,7 +228,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background: url("http://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/8/75/8752c4ae-bdbe-5662-bc10-1b33a47483d9/5696a2c0b74ac.image.jpg?resize=1200%2C646") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
