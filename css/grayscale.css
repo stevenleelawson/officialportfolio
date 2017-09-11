@@ -25,6 +25,17 @@ body {
   margin: 2rem;
   padding: 1rem;
 }
+#resume {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.resuMay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
 html {
   width: 100%;
   height: 100%;
