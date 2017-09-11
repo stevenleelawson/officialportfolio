@@ -10,12 +10,20 @@ body {
   color: ghostwhite;
   background-color: black;
 }
-@media (min-width: 768px) {
-  .port {
-    margin: 0 0 35px;
-    font-size: 20px;
-    line-height: 1.6;
-  }
+.flax {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.explain {
+  width: 65%;
+}
+.explainTwo {
+  width: 45%;
+  background-color: black;
+  opacity: .60;
+  margin: 2rem;
+  padding: 1rem;
 }
 html {
   width: 100%;
