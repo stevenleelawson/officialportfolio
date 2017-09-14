@@ -10,6 +10,10 @@ body {
   color: ghostwhite;
   background-color: black;
 }
+img {
+  width: 100%;
+  height: inherit;
+}
 .flax {
   display: flex;
   justify-content: center;
